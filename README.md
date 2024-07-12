@@ -14,10 +14,10 @@ This was created using an edit of the [Microsoft Open Source Pride Flag](https:/
 
 The source of this one is complicated but basically the line was taken from the poem Anorexic by Eavan Boland. I first heard this stanza from the song The Heretic by The Sound of Animals Fighting, which was referencing that poem, but I heard it completely devoid of context and it became a mantra of transformation for me instead of a meditation on disordered eating, something I've also struggled with. Anyway.
 
-### Black and White
+### Trans Flag
 
 ![](my-body-is-a-witch/my-body-is-a-witch-black-and-white.svg)
 
-### Trans Flag
+### Black and White
 
 ![](my-body-is-a-witch/my-body-is-a-witch-trans-flag.svg)
