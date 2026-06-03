@@ -16,8 +16,20 @@ The source of this one is complicated but basically the line was taken from the 
 
 ### Trans Flag
 
-![](my-body-is-a-witch/my-body-is-a-witch-black-and-white.svg)
+#### Estrogen
+
+![](my-body-is-a-witch/my-body-is-a-witch-black-and-white-estrogen.svg)
+
+#### Testosterone
+
+![](my-body-is-a-witch/my-body-is-a-witch-black-and-white-testosterone.svg)
 
 ### Black and White
 
-![](my-body-is-a-witch/my-body-is-a-witch-trans-flag.svg)
+#### Estrogen
+
+![](my-body-is-a-witch/my-body-is-a-witch-trans-flag-estrogen.svg)
+
+#### Testosterone
+
+![](my-body-is-a-witch/my-body-is-a-witch-trans-flag-testosterone.svg)
